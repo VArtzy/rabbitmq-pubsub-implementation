@@ -1,0 +1,18 @@
+{
+    "name": "vartz/belajar-php-rabbitmq",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Vartz\\BelajarPhpRabbitmq\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "VArtz",
+            "email": "farrelnikoson@gmail.com"
+        }
+    ],
+    "require": {
+        "php-amqplib/php-amqplib": "^3.6"
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "belajar-nodejs-rabbitmq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/amqplib": "^0.10.5",
+    "amqplib": "^0.10.4"
+  }
+}

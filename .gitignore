@@ -1,0 +1,4 @@
+nodejs-rabbitmq/node_modules/
+php-rabbitmq/vendor/
+golang-rabbitmq/consumer/consumer.exe
+golang-rabbitmq/producer/producer.exe
